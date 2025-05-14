@@ -1,0 +1,14 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+
+# Power BI fichiers temporaires (si tu veux exclure les autosaves par ex.)
+*.pbix-autosave
+
+# Autres fichiers que tu ne veux pas pousser
+notes.txt
+Donnees_test.xlsx
